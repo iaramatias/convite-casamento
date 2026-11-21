@@ -4,7 +4,7 @@ Convite de casamento digital desenvolvido para visualização na web, com design
 
 ## 🌐 Acesso online
 Você pode visualizar o convite diretamente pelo GitHub Pages:
-`https://iaramatias.github.io/NOME-DO-REPOSITORIO/`
+`https://iaramatias.github.io/convite-casamento`
 
 ## ✨ Funcionalidades / Destaques
 - Layout responsivo (funciona no telemóvel e no computador)
@@ -14,7 +14,7 @@ Você pode visualizar o convite diretamente pelo GitHub Pages:
 ## 🛠️ Tecnologias utilizadas
 - HTML5
 - CSS3
-- JavaScript *(remova se não tiver usado JS)*
+- JavaScript 
 
 ## 📁 Estrutura de pastas
 - `index.html` — Página principal do convite
